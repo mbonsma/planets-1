@@ -1,1 +1,1 @@
-Test repository for bootcamp
+Example repository for class
