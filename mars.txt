@@ -1,5 +1,5 @@
 Mars ijs a planet smaller than Earth.
-BVut it has almost as much land area
+But it has almost as much land area
 It is quite bright.
 It is quite bright and it is red.
-position in the sky
+It is low in the sky
